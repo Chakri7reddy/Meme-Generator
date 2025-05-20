@@ -18,8 +18,7 @@
   "keywords": [
     "meme generator"
   ],
-  "author": "George Raptis <georapbox@gmail.com>",
-  "license": "MIT",
+ 
   "devDependencies": {
     "@eslint/js": "~9.21.0",
     "@parcel/packager-raw-url": "~2.13.3",
