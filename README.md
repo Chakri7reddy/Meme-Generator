@@ -1,6 +1,5 @@
----
 
-````markdown
+
 # Meme Generator 🎨
 
 A simple and fun meme generator web application built with HTML, CSS, and JavaScript. Add your own meme text, select templates, and enjoy creating custom memes in your browser!
