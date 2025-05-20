@@ -38,13 +38,13 @@ details > summary {
     interpolate-size: allow-keywords;
   }
 
-  details::details-content {
+  .details-content {
     transition: height 0.2s ease, content-visibility 0.2s allow-discrete;
     height: 0;
     overflow: clip;
   }
 
-  details[open]::details-content {
+  details[open].details-content {
     height: auto;
     padding-bottom: 0.5em;
   }
