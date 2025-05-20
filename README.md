@@ -21,27 +21,27 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
 
-   ```bash
+
    gh repo clone Chakri7reddy/Meme-Generator
-````
+
 
 Or using HTTPS:
 
-```bash
+
 git clone https://github.com/Chakri7reddy/Meme-Generator.git
-```
+
 
 2. **Navigate into the project directory**:
 
-   ```bash
+  
    cd Meme-Generator
-   ```
+  
 
 3. **Install dependencies**:
 
-   ```bash
+  
    npm install
-   ```
+ 
 
 ---
 
